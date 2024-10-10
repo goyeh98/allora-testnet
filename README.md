@@ -42,7 +42,7 @@ sudo apt install ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-
 # Install Python3
 sudo apt install python3
 python3 --version
-
+.
 sudo apt install python3-pip
 pip3 --version
 ```
